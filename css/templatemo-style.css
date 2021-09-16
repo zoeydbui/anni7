@@ -265,7 +265,7 @@ p, address {
 }
 
 .parallax-window {
-  min-height: 460px;
+  min-height: 440px;
   background: transparent;
   position: relative;
 }
